@@ -174,7 +174,7 @@ graph TD
 ---
 
 Este documento proporciona una visión detallada de la metodología para aplicar la reingeniería de procesos, incluyendo las etapas principales, técnicas y herramientas utilizadas, así como el análisis económico y financiero necesario para la toma de decisiones. Si necesitas más detalles o ajustes, ¡no dudes en pedírmelo! 😊
-```
+
 ---
 ---
 # Reingeniería de Procesos - Parte 3
