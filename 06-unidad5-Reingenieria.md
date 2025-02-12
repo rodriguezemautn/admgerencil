@@ -114,7 +114,6 @@ graph TD
 ---
 ---
 
-```markdown
 # Reingeniería de Procesos - Parte 2
 
 ## Metodología para Aplicar la Reingeniería
